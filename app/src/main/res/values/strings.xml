@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi punto en el mundo super</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+</resources>
